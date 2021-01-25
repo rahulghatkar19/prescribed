@@ -40,13 +40,13 @@
 //   }
 // }
 
-import 'package:covid_19/constant.dart';
-import 'package:covid_19/screens/health_page.dart';
-import 'package:covid_19/screens/prescription_screen.dart';
-import 'package:covid_19/widgets/circular_box.dart';
-import 'package:covid_19/widgets/cover.dart';
-import 'package:covid_19/widgets/medicine_pill.dart';
-import 'package:covid_19/widgets/rounded_box.dart';
+import 'package:wlcm/constant.dart';
+import 'package:wlcm/screens/health_page.dart';
+import 'package:wlcm/screens/prescription_screen.dart';
+import 'package:wlcm/widgets/circular_box.dart';
+import 'package:wlcm/widgets/cover.dart';
+import 'package:wlcm/widgets/medicine_pill.dart';
+import 'package:wlcm/widgets/rounded_box.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
