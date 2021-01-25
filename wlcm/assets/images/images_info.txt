@@ -1,0 +1,1 @@
+all images go into this folder inside ASSETS
